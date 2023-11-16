@@ -1,0 +1,2 @@
+../Core/motion_stepper_control.c:30:5:check_motion_sensor	8	static
+../Core/motion_stepper_control.c:38:6:move_both_stepper_motors	24	static
